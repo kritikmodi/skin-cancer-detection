@@ -1,4 +1,4 @@
-# Skin Cancer Detection using Convolution Neural Networks
+# Skin Cancer Detection using Convolutional Neural Networks
 
 - Image classification is done using CNN.
 - Website is built using HTML, CSS, Javascript and Flask.
